@@ -1,0 +1,9 @@
+folder_tst: /home/edan/tst
+folder_out: /home/edan/out
+FOLDER_folder1: /home/edan/folder1
+FOLDER_folder2: /home/edan/folder2
+count: 5
+size: 2M
+ip: 0.0.0.0
+user: edan
+passwd: "qwerty12345"
